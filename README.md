@@ -8,4 +8,4 @@ We include all the data structures we compared against in the paper, and the one
 There are two scripts for end-to-end reproduction: 
 
 * `reproduce-pt-ops.py`: Reproduces Figures 3, 4, 5 and 6
-* `reproduce-range-queries.py`: Reporoduces Figures 7 and 8
+* `reproduce-range-queries.py`: Reproduces Figures 7 and 8
